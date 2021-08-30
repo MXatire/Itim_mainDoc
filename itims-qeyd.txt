@@ -1,0 +1,20 @@
+﻿1. dizayn - responsive probleminin həlli+
+2. axtarış və statistika ayrılır. lakin bir səhifədə qalır.+
+3. axtarışda full join olmalı+
+4. griddə pageing problemi. (2ci səhifədə çıxanlar 1ninin ilk 4 sətri olur)+
+5. 2-ci drop refresh olmur.~ hecne etmedim cunki mende isdiyir
+6. kateqoriyaya ip və mac əlavə etmək+
+7. girişdə captcha əlavə etmək+
+8. yenilənmə tarixi əlavə edilsin. son yenilənənlər əvvəldə göstərilsin+
+9. sonuncu 1 gün yenilənmə tarixi olmayanlar haqqında notification vesin. həmçinin yeni siyahıda göstərsin.button əlavə etmək
+
+mission completed for today at 02:45 AM
+
+
+
+Sİstemin şərtləri
+- proqramın silinməsi dayandırılmalı
+- istifadəçi ip, mac, hostname funsksiyaları işlədə bilməməlidir.
+- Antivirus sistemində proqram trust olmalıdır.
+- istifadəçi proqramı stratupdan çıxarmamalıdır.
+- proqramın işlətdiyi servisin linki quruma inteqrasiya olmalıdır.
